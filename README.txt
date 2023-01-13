@@ -36,7 +36,7 @@
     PATCH /api/user
     DELETE /api/user 
 
-Steps:
+✋Steps:
 1. First I Inetialize node package manager 
     npm init -y
 2. npm install json-server
